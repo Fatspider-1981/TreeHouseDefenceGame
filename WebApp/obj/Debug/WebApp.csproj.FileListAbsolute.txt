@@ -1,0 +1,6 @@
+C:\Users\yuting\source\repos\TreeHouseDefenceGame\WebApp\bin\Debug\WebApp.exe.config
+C:\Users\yuting\source\repos\TreeHouseDefenceGame\WebApp\bin\Debug\WebApp.exe
+C:\Users\yuting\source\repos\TreeHouseDefenceGame\WebApp\bin\Debug\WebApp.pdb
+C:\Users\yuting\source\repos\TreeHouseDefenceGame\WebApp\obj\Debug\WebApp.exe
+C:\Users\yuting\source\repos\TreeHouseDefenceGame\WebApp\obj\Debug\WebApp.pdb
+C:\Users\yuting\source\repos\TreeHouseDefenceGame\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
